@@ -3,6 +3,7 @@ red
 yellow
 green
 orange
+earth day added here
 pink
 white
 lavender
