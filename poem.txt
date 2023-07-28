@@ -1,0 +1,6 @@
+red
+yellow
+green
+orange
+white
+these are the colours i wrote in this file.
