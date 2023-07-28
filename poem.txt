@@ -3,6 +3,7 @@ red
 yellow
 green
 orange
+happy 
 white
 lavender
 purple
