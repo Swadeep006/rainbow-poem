@@ -1,4 +1,4 @@
-This is rainbow and unicorn poem
+This is rainbow and unicorn poem and ponies
 red
 yellow
 green
@@ -8,3 +8,4 @@ white
 lavender
 purple
 these are the colours i wrote and added purple now.
+
