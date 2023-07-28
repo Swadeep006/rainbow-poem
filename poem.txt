@@ -4,4 +4,5 @@ green
 orange
 white
 lavender
-these are the colours i wrote and added lavender.
+purple
+these are the colours i wrote and added purple now.
