@@ -3,4 +3,5 @@ yellow
 green
 orange
 white
-these are the colours i wrote in this file.
+lavender
+these are the colours i wrote and added lavender.
